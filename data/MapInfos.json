@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":false,"name":"教学楼","order":1,"parentId":0,"scrollX":704.5,"scrollY":566,"quick":false},
+{"id":2,"expanded":false,"name":"二楼教室","order":2,"parentId":0,"scrollX":696.5,"scrollY":518,"quick":false},
+{"id":3,"expanded":false,"name":"校门","order":3,"parentId":0,"scrollX":704.5,"scrollY":902,"quick":false}
+]
